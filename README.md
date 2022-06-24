@@ -15,6 +15,6 @@ Frontend version: 0.6.103
   В поле `OTA index override file name` указать: `https://github.com/0x3EC/test_ws/raw/master/jh_index.json`  
   Нажать ***'Submit'***.
 
-4. Перейти в раздел `OTA`. Нажать кнопку ***'Check for new update'*** напротив WS7. Подождать появления кнопки ***'Update device firmware'***. Нажать на нее. 
+4. Перейти в раздел `OTA`. Нажать кнопку ***'Check for new update'*** напротив WS7. На WS7 нажать кнопку переключения режимов. Подождать появления кнопки ***'Update device firmware'***. Нажать на нее. 
 
 5. На WS7 с периодом ~2 сек нажать 3-4 раза на кнопку переключения режимов. Начнется процесс обновления. Время обновления около 80 минут. 
