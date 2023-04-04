@@ -16,5 +16,14 @@
         "sha512": "8e7100971faa019df538cae36f385e88bcc3150f2b1522f68529848f604d25114d79e0ee9723233875d95ba5aa71b8e0ee319c64a1d443a9d13fcfb6da2f9a8e",
         "url": "https://github.com/0x3EC/test_ws/raw/master/images/JetHome/z76r5_v05_20230330.ota",
         "path": "images/JetHome/z76r5_v05_20230330.ota"
-    }
+    },
+    {
+        "fileVersion": 6,
+        "fileSize": 248158,
+        "manufacturerCode": 61731,
+        "imageType": 61443,
+        "sha512": "b12452e10f5729d575a6c6cc28c16bdc356ea6ad9452e022ae768a8690acdab0de149efa5c28a25b747ffe658c09b5b028bde83eecd356fcfb2809e0de241e1c",
+        "url": "https://github.com/Koenkk/zigbee-OTA/raw/master/images/JetHome/z76r5_v06_20230404.ota",
+        "path": "images/JetHome/z76r5_v06_20230404.ota"
+    }    
 ]
