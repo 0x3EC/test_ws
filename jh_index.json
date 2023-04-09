@@ -9,12 +9,12 @@
         "path": "images/JetHome/WS7_20220531_F123_F001_00000009.zigbee"
     },
     {
-        "fileVersion": 6,
-        "fileSize": 248158,
+        "fileVersion": 7,
+        "fileSize": 248174,
         "manufacturerCode": 61731,
         "imageType": 61443,
-        "sha512": "b12452e10f5729d575a6c6cc28c16bdc356ea6ad9452e022ae768a8690acdab0de149efa5c28a25b747ffe658c09b5b028bde83eecd356fcfb2809e0de241e1c",
-        "url": "https://github.com/0x3EC/test_ws/raw/master/images/JetHome/z76r5_v06_20230404.ota",
-        "path": "images/JetHome/z76r5_v06_20230404.ota"
+        "sha512": "0a914eafef4b956c5be41a21d2aaa32797a7f267a6cb64ee97dba8d06ea53cdec9931232a11919533b73e4c1edd13315b7bad8734f475c941fef7fb2aa546c32",
+        "url": "https://github.com/0x3EC/test_ws/raw/master/images/JetHome/z76r5_v07_20230409.ota",
+        "path": "images/JetHome/z76r5_v07_20230409.ota"
     }    
 ]
