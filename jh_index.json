@@ -1,20 +1,11 @@
 [
     {
-        "fileVersion": 9,
-        "fileSize": 160442,
+        "fileVersion": 10,
+        "fileSize": 159578,
         "manufacturerCode": 61731,
         "imageType": 61441,
-        "sha512": "77124d6bda13b3473455ac835056dcee551e70ee78e27d9be247e13c2c81c314aaacc489f132baa1305629cc405c565999d7c473d22428ceefd1b5c6d8612024",
-        "url": "https://github.com/0x3EC/test_ws/raw/master/images/JetHome/WS7_20220531_F123_F001_00000009.zigbee",
-        "path": "images/JetHome/WS7_20220531_F123_F001_00000009.zigbee"
-    },
-    {
-        "fileVersion": 7,
-        "fileSize": 248174,
-        "manufacturerCode": 61731,
-        "imageType": 61443,
-        "sha512": "0a914eafef4b956c5be41a21d2aaa32797a7f267a6cb64ee97dba8d06ea53cdec9931232a11919533b73e4c1edd13315b7bad8734f475c941fef7fb2aa546c32",
-        "url": "https://github.com/0x3EC/test_ws/raw/master/images/JetHome/z76r5_v07_20230409.ota",
-        "path": "images/JetHome/z76r5_v07_20230409.ota"
-    }    
+        "sha512": "88a874cf97c7538b3c8436df5e53f4fa16cb2dd3e20ee36859047156596ff4c793942ca8ab4187df8ba755a5bdb1745378a22a87f8da8c4a5c3607039589a77e",
+        "url": "https://github.com/0x3EC/test_ws/raw/master/images/JetHome/WS7_20230627_F123-F001-0000000A.zigbee",
+        "path": "images/JetHome/WS7_20230627_F123-F001-0000000A.zigbee"
+    }
 ]
